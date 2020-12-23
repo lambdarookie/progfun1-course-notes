@@ -1,1 +1,3 @@
-# progfun1-course-notes
+# 🚨 This repository moved!
+
+You can find it here: https://github.com/lkbaerenfaenger/progfun1-course-notes
